@@ -1,7 +1,7 @@
-import distutils
 import os.path
 import sys
 
+import distutils
 from setuptools import Extension
 from setuptools import setup
 from setuptools.command.install import install as _install
